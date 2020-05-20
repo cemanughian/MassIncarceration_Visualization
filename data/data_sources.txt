@@ -1,0 +1,12 @@
+
+World pop
+https://www.census.gov/data/tables/time-series/demo/popest/pre-1980-national.html
+https://www.census.gov/population/www/censusdata/pop1790-1990.html
+https://data.census.gov/cedsci/table?q=yearly%20total%20population&hidePreview=false&tid=ACSDT1Y2018.B01003&t=Total%20population&vintage=2018
+Select table >Download
+
+Prison - incarceration rates
+https://www.prisonpolicy.org/data/
+
+Other visualization Ideas
+https://www.census.gov/newsroom/cspan/1940census/

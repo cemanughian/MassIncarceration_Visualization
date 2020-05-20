@@ -1,0 +1,34 @@
+investigation for project
+
+* more unconvicted people in prison - show conviected vs not convicted over time (policy changes in 1983 that make it more likely for people to be detained prior to trial ) (why would people benefit from more unconvicted people in prison?)
+https://ideas.ted.com/how-the-bail-system-in-the-us-became-such-a-mess-and-how-it-can-be-fixed/
+* laws changing allowing for longer sentences
+* people (MORE?) benefitting financially from people in prison - copay, telephone, bail
+
+* Lots of information and different avenues to investigate 
+Inspo:
+https://www.prisonpolicy.org/visuals/staff_picks.html
+
+
+On bail/unconvicted:__
+https://www.prisonpolicy.org/jails.html
+One out of every three people behind bars today is held in a county or city jail. The U.S. jail population has tripled over the last 30 years, driven by an increase in pretrial detention and money bail, policies that keep legally innocent people behind bars before trial and increase the likelihood that they will plead guilty. 
+
+* Plot:
+number of people convicted of crimes vs number of people in jail (jail should show growth while convictions should not)
+* What driving jail growth? Major drivers high level overview since this is a big complicated question https://www.prisonpolicy.org/reports/jailsovertime.html
+animated scatter plot of reasons people are in jail over time - will show pretrial detention growth (bail bonds reasoning) while convicted remains stable 
+
+
+((((Many things have changed over the last three decades. Changes to police strategy mean that interactions with the police are more likely to result in arrest
+, and the increased reliance on money bail
+means that the courts have imposed a wealth-based test on freedom. Looking at jail policy at the state level is especially important because, while local officials are the primary decision-makers, state lawmakers set the rules by which those decisions are made. The charging practices of county prosecutors and the bail decisions of local judges can be impacted by whether or not a state collects data on prosecutorial discretion or regulates the bail industry. The inaction of state lawmakers has allowed certain local officials to churn millions of people through the entire criminal justice system. As a result, today, local jails are filled with people who are legally innocent, marginalized, and overwhelmingly poor.)))
+
+** Bail information
+
+Boils down to two main things:
+* financial incentives of state and federal contracts.
+* bail bonds companies benefiting from pre-trial policies 
+
+
+

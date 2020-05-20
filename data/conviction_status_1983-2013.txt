@@ -1,0 +1,9 @@
+Status 	1983 	1988 	1993 	1998 	2003 	2008 	2013
+Pre-trial (unadjusted)  	113,984 	175,669 	228,900 	331,800 	414,800 	494,200 	453,200
+Convicted (unadjusted)  	107,660 	166,224 	226,600 	252,600 	269,900 	291,200 	278,000
+Held for state prisons  	9,134 	14,314 	50,966 	24,925 	73,440 	83,497 	85,662
+Held for immigration authorities  	1,304 	1,954 	3,763 	8,544 	13,337 	20,785 	17,241
+Held for Bureau of Prisons or U.S. Marshals Service  	2,044 	6,302 	11,833 	16,690 	25,522 	32,761 	31,745
+Total held for other authorities  	12,482 	22,570 	66,562 	50,159 	112,299 	137,043 	134,648
+Pre-trial (adjusted)  	112,632 	172,863 	223,568 	322,147 	399,860 	472,607 	434,188
+Convicted (adjusted)  	96,530 	146,460 	165,370 	212,094 	172,541 	175,750 	162,364
